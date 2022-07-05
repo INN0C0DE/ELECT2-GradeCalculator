@@ -1,0 +1,12 @@
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.xml
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Resources.resources
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.vbproj.GenerateResource.Cache
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.xml
+d:\os_files\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+D:\OS_FILES\Documents\Visual Studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.vbprojResolveAssemblyReference.cache
+D:\OS_FILES\Documents\Visual Studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form2.resources
